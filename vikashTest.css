@@ -1,0 +1,10 @@
+#btnClick:active{
+    background-color: yellow;   
+}
+#username:focus{
+border: 1px solid yellow;
+outline: 1px solid yellow;
+}
+.viratClass::after{
+   content: "Anushka";
+}
